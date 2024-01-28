@@ -1,4 +1,4 @@
-package com.kh.exercise.parking;
+package com.exercise.parking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
