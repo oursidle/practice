@@ -1,0 +1,112 @@
+2024-01-28 14:02:51.8 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:02:51.8 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:02:51.8 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:02:52.7 [INFO ] Started ParkingApplication in 0.973 seconds (process running for 10678.691) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:03:29.2 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:03:29.2 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:03:29.2 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:03:30.2 [INFO ] Started ParkingApplication in 1.038 seconds (process running for 10716.156) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:06:32.0 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:06:32.0 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:06:32.0 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:06:32.8 [INFO ] Started ParkingApplication in 0.9 seconds (process running for 10898.767) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:38.3 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:38.3 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:38.3 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:39.5 [INFO ] Started ParkingApplication in 1.301 seconds (process running for 10965.461) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:48.3 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:48.3 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:48.3 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:07:49.2 [INFO ] Started ParkingApplication in 0.936 seconds (process running for 10975.117) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:08:10.3 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:08:10.3 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:08:10.3 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:08:11.4 [INFO ] Started ParkingApplication in 1.201 seconds (process running for 10997.38) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:11:54.5 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:11:54.5 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:11:54.5 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:11:55.5 [INFO ] Started ParkingApplication in 1.049 seconds (process running for 11221.466) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:12:01.2 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:12:01.2 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:12:01.2 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:12:02.4 [INFO ] Started ParkingApplication in 1.202 seconds (process running for 11228.334) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:02.7 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:02.7 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:02.7 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:03.7 [INFO ] Started ParkingApplication in 1.052 seconds (process running for 11349.624) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:45.0 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:45.0 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:45.0 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:46.0 [INFO ] Started ParkingApplication in 0.983 seconds (process running for 11391.899) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:59.1 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:59.1 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:14:59.1 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:15:00.3 [INFO ] Started ParkingApplication in 1.214 seconds (process running for 11406.218) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:15:58.0 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:15:58.0 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:15:58.0 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:15:58.9 [INFO ] Started ParkingApplication in 0.914 seconds (process running for 11464.841) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:17:35.1 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:17:35.1 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:17:35.1 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:17:36.1 [INFO ] Started ParkingApplication in 1.036 seconds (process running for 11562.059) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:07.0 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:07.0 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:07.0 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:08.1 [INFO ] Started ParkingApplication in 1.184 seconds (process running for 11594.082) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:22.1 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:22.1 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:22.1 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:23.0 [INFO ] Started ParkingApplication in 0.909 seconds (process running for 11608.966) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:26.8 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:26.8 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:26.8 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:27.7 [INFO ] Started ParkingApplication in 0.949 seconds (process running for 11613.657) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:35.6 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:35.6 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:35.6 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:36.5 [INFO ] Started ParkingApplication in 0.905 seconds (process running for 11622.436) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:58.2 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:58.2 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:58.2 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:18:59.1 [INFO ] Started ParkingApplication in 0.914 seconds (process running for 11645.008) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:05.7 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:05.7 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:05.7 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:06.5 [INFO ] Started ParkingApplication in 0.861 seconds (process running for 11712.475) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:16.5 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:16.5 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:16.5 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:17.4 [INFO ] Started ParkingApplication in 0.959 seconds (process running for 11723.342) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:21.2 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:21.2 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:21.2 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:22.0 [INFO ] Started ParkingApplication in 0.887 seconds (process running for 11727.966) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:37.2 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:37.2 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:37.2 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:20:38.1 [INFO ] Started ParkingApplication in 0.948 seconds (process running for 11744.044) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:22.6 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:22.6 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:22.6 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:23.5 [INFO ] Started ParkingApplication in 0.996 seconds (process running for 12269.488) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:26.2 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:26.2 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:26.2 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:27.5 [INFO ] Started ParkingApplication in 1.404 seconds (process running for 12273.49) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:34.4 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:34.4 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:34.4 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:29:35.4 [INFO ] Started ParkingApplication in 0.993 seconds (process running for 12281.306) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:33.1 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:33.1 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:33.1 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:34.1 [INFO ] Started ParkingApplication in 0.995 seconds (process running for 12339.999) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:39.9 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:39.9 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:39.9 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:40.9 [INFO ] Started ParkingApplication in 1.063 seconds (process running for 12346.825) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:46.7 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:46.7 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:46.7 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 14:30:47.5 [INFO ] Started ParkingApplication in 0.902 seconds (process running for 12353.484) - com.exercise.parking.ParkingApplication 

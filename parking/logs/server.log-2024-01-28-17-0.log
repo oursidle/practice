@@ -1,0 +1,8 @@
+2024-01-28 17:00:15.1 [DEBUG] parkingStartTime = 30 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 17:00:15.1 [DEBUG] parkingStartFee = 600 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 17:00:15.1 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 17:00:15.1 [DEBUG] parkingTermFee = 300 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 17:00:39.5 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 17:00:39.5 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 17:00:39.5 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 17:00:40.4 [INFO ] Started ParkingApplication in 0.953 seconds (process running for 21346.084) - com.exercise.parking.ParkingApplication 

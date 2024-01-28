@@ -1,0 +1,240 @@
+2024-01-28 13:00:19.7 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:00:19.7 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:00:19.7 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:00:20.9 [INFO ] Started ParkingApplication in 1.426 seconds (process running for 6926.882) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:02:18.0 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:02:18.0 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:02:18.0 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:02:19.0 [INFO ] Started ParkingApplication in 1.033 seconds (process running for 7044.987) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:03:24.9 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:03:24.9 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:03:24.9 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:03:27.7 [INFO ] Started ParkingApplication in 2.91 seconds (process running for 7113.635) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:03:27.7 [DEBUG] parkingStartTime = 60 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:03:27.7 [DEBUG] parkingStartFee = 1000 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:03:27.7 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:03:27.7 [DEBUG] parkingTermFee = 500 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:03:27.7 [DEBUG] parkingStartTime = 60 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:03:27.7 [DEBUG] parkingStartFee = 1000 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:03:27.7 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:03:27.7 [DEBUG] parkingTermFee = 500 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:12.0 [DEBUG] parkingStartTime = 30 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:12.0 [DEBUG] parkingStartFee = 1000 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:12.0 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:12.0 [DEBUG] parkingTermFee = 500 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:19.2 [DEBUG] parkingStartTime = 30 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:19.2 [DEBUG] parkingStartFee = 1000 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:19.2 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:19.2 [DEBUG] parkingTermFee = 500 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:26.0 [DEBUG] parkingStartTime = 30 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:26.0 [DEBUG] parkingStartFee = 1000 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:26.0 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:26.0 [DEBUG] parkingTermFee = 500 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:51.8 [DEBUG] parkingStartTime = 30 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:51.8 [DEBUG] parkingStartFee = 1000 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:51.8 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:05:51.8 [DEBUG] parkingTermFee = 500 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:07:09.3 [DEBUG] parkingStartTime = 30 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:07:09.3 [DEBUG] parkingStartFee = 1000 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:07:09.3 [DEBUG] parkingTermTime = 15 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:07:09.3 [DEBUG] parkingTermFee = 500 - com.exercise.parking.restController.ParkingRestController 
+2024-01-28 13:25:39.2 [ERROR] Servlet.service() for servlet [jsp] threw exception - org.apache.catalina.core.ContainerBase.[Tomcat-9].[localhost].[/].[jsp] 
+org.apache.jasper.JasperException: <h3>Validation error messages from TagLibraryValidator for [c] in [/WEB-INF/views/parking/info.jsp]</h3><p>56: Illegal text inside "c:choose" tag: "<a href...".</p><p>56: Illegal text inside "c:choose" tag: "<button...".</p><p>56: Illegal text inside "c:choose" tag: "</butto...".</p><p>56: Illegal text inside "c:choose" tag: "</a>...".</p>
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:54) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:301) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:82) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Validator.validateXmlView(Validator.java:1944) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Validator.validateExDirectives(Validator.java:1891) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:229) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:396) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:372) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:356) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:396) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.16.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:408) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:340) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:277) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:314) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.16.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.16.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2024-01-28 13:25:39.2 [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [<h3>Validation error messages from TagLibraryValidator for [c] in [/WEB-INF/views/parking/info.jsp]</h3><p>56: Illegal text inside "c:choose" tag: "<a href...".</p><p>56: Illegal text inside "c:choose" tag: "<button...".</p><p>56: Illegal text inside "c:choose" tag: "</butto...".</p><p>56: Illegal text inside "c:choose" tag: "</a>...".</p>] with root cause - org.apache.catalina.core.ContainerBase.[Tomcat-9].[localhost].[/].[dispatcherServlet] 
+org.apache.jasper.JasperException: <h3>Validation error messages from TagLibraryValidator for [c] in [/WEB-INF/views/parking/info.jsp]</h3><p>56: Illegal text inside "c:choose" tag: "<a href...".</p><p>56: Illegal text inside "c:choose" tag: "<button...".</p><p>56: Illegal text inside "c:choose" tag: "</butto...".</p><p>56: Illegal text inside "c:choose" tag: "</a>...".</p>
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:54) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:301) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:82) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Validator.validateXmlView(Validator.java:1944) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Validator.validateExDirectives(Validator.java:1891) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:229) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:396) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:372) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:356) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:396) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:380) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:328) ~[tomcat-embed-jasper-10.1.16.jar:10.1.16]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.16.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:408) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:340) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:277) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:314) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.16.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.1.jar:6.1.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.16.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.1.jar:6.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.16.jar:10.1.16]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2024-01-28 13:31:17.0 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:31:17.0 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:31:17.0 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:31:18.0 [INFO ] Started ParkingApplication in 0.998 seconds (process running for 8783.943) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:34:34.7 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:34:34.7 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:34:34.7 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:34:35.7 [INFO ] Started ParkingApplication in 0.973 seconds (process running for 8981.613) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:38:58.8 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:38:58.8 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:38:58.8 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:39:00.1 [INFO ] Started ParkingApplication in 1.299 seconds (process running for 9246.018) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:47:25.7 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:47:25.7 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:47:25.7 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:47:26.8 [INFO ] Started ParkingApplication in 1.201 seconds (process running for 9752.788) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:50:29.0 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:50:29.0 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:50:29.0 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:50:30.0 [INFO ] Started ParkingApplication in 1.091 seconds (process running for 9935.991) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:27.7 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:27.7 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:27.7 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:28.8 [INFO ] Started ParkingApplication in 1.088 seconds (process running for 10114.719) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:40.1 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:40.1 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:40.1 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:53:41.3 [INFO ] Started ParkingApplication in 1.275 seconds (process running for 10127.251) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:55:17.9 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:55:17.9 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:55:17.9 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:55:18.9 [INFO ] Started ParkingApplication in 1.072 seconds (process running for 10224.841) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:58:13.4 [INFO ] Starting ParkingApplication using Java 17.0.7 with PID 19844 (C:\study\springworkspace\parking\target\classes started by hyoli in C:\study\springworkspace\parking) - com.exercise.parking.ParkingApplication 
+2024-01-28 13:58:13.4 [DEBUG] Running with Spring Boot v3.2.0, Spring v6.1.1 - com.exercise.parking.ParkingApplication 
+2024-01-28 13:58:13.4 [INFO ] No active profile set, falling back to 1 default profile: "default" - com.exercise.parking.ParkingApplication 
+2024-01-28 13:58:14.3 [INFO ] Started ParkingApplication in 0.946 seconds (process running for 10400.227) - com.exercise.parking.ParkingApplication 
